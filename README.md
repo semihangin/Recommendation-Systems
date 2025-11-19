@@ -2,13 +2,14 @@
 
 Bu çalışma, veri içerisindeki öğeler arasındaki ilişkileri ortaya çıkarmayı amaçlayan Birliktelik Kuralı Öğrenimi algoritmalarını kullanır. Genellikle pazarlama sepet analizi (market basket analysis) için tercih edilir.
 
-Kullanılan Yöntemler
+-> Kullanılan Yöntemler
 
 Apriori Algorithm
 
 Association Rules (Support, Confidence, Lift)
 
-Öne Çıkan Adımlar
+
+-> Öne Çıkan Adımlar
 
 Veri setinin yüklenmesi ve temizlenmesi
 
@@ -18,7 +19,8 @@ Apriori ile sık öğe kümelerini çıkarma
 
 Confidence ve Lift değerlerine göre kurallar üretme
 
-Sonuçlar
+
+-> Sonuçlar
 
 En anlamlı alışveriş ilişkileri listelenir
 
@@ -29,7 +31,7 @@ En anlamlı alışveriş ilişkileri listelenir
 
 Bu çalışma, kullanıcılar için daha doğru tahminler yapan Hibrit Öneri Sistemi geliştirmeye yöneliktir. İçerik tabanlı ve işbirlikçi filtreleme yöntemlerinin birleşiminden oluşur.
 
-Kullanılan Yöntemler
+-> Kullanılan Yöntemler
 
 Content-Based Filtering
 
@@ -39,7 +41,7 @@ Item-Based Collaborative Filtering
 
 Final Hybrid Score
 
-Öne Çıkan Adımlar
+-> Öne Çıkan Adımlar
 
 Kullanıcı-film etkileşim verilerini analiz etme
 
@@ -49,7 +51,7 @@ Kullanıcı benzerlikleri hesaplama
 
 İki sonucu bir arada kullanarak hibrit skor elde etme
 
-Sonuçlar
+-> Sonuçlar
 
 Kullanıcıya özel daha isabetli film önerileri
 
